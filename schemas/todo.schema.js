@@ -1,4 +1,4 @@
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 
 // 스키마 설정하자.
 const TodoSchema = new mongoose.Schema({
